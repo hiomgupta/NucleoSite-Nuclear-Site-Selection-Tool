@@ -1,7 +1,7 @@
 # NucleoSite - Nuclear Site Selection Tool
 
 ## Project Overview
-NucleoSite is an innovative desktop application developed to assist in selecting optimal sites for nuclear facilities in India. Utilizing Python and PyQt5, the tool provides interactive geographical visualizations of dam locations, integrating extensive data analysis to effectively assess dam safety and environmental impacts.
+NucleoSite is an innovative desktop application developed to assist in selecting optimal sites for nuclear facilities in India. The tool uses Python and PyQt5 to provide interactive geographical visualizations of dam locations, integrating extensive data analysis to effectively assess dam safety and environmental impacts.
 
 ![NucleoSite Main Interface](path/to/main_interface.png)
 *The main interface of NucleoSite shows the interactive map.*
@@ -25,3 +25,7 @@ NucleoSite is an innovative desktop application developed to assist in selecting
 - **PyQt5**: Utilized to create the graphical user interface.
 - **Matplotlib & GeoPandas**: For processing and visualizing geospatial data.
 - **FPDF**: For generating PDF reports.
+
+## Acknowledgements
+- Mentorship provided by Prof. Sushobhan Sen, IIT Gandhinagar.
+- Developed by Om Gupta and Nirman Jaiswal.
