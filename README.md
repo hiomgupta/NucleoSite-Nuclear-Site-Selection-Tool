@@ -9,10 +9,14 @@ NucleoSite is an innovative desktop application developed to assist in selecting
 
 ## Key Features
 - **Interactive Map Visualization**: Users can explore dam locations across various states with tools to zoom and gather more detailed data interactively.
-- **Advanced Data Analysis**: Incorporates multiple data layers to assess factors such as seismic risks, population density, and proximity to water bodies.
 
 ![Data Analysis Interface](images/dams_India.png)
-*Screenshot displaying data analysis features in action.*
+*Dams in India and potential grid locations for Nuclear Plants*
+
+  
+- **Advanced Data Analysis**: Incorporates multiple data layers to assess factors such as seismic risks, population density, and proximity to water bodies.
+![Data Analysis Interface](images/buffer_zone.png)
+Grid of potential locations within a 10 km buffer zone at a 1 km distance*
 
 - **Dynamic Reporting**: Enables the generation and exportation of detailed PDF reports summarizing user analysis findings.
 - **Customizable Search Parameters**: Users can define specific search criteria and thresholds, tailoring the output to particular needs.
